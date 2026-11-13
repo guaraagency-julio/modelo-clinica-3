@@ -73,7 +73,7 @@ p{line-height:1.83}
 .hero-tile{position:relative;display:flex;align-items:flex-end;min-width:0;overflow:hidden;background:#536b73;color:#fff;isolation:isolate}
 .hero-tile-image{position:absolute;inset:0;z-index:-2;transition:transform .9s cubic-bezier(.2,.7,.2,1);background-size:cover;background-position:center}
 .hero-image-one{background-image:url('https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1550&q=85')}
-.hero-image-two{background-image:url('https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1550&q=85')}
+.hero-image-two{background-image:url('https://images.unsplash.com/photo-1762625570087-6d98fca29531?auto=format&fit=crop&w=1550&q=85')}
 .hero-tile:hover .hero-tile-image{transform:scale(1.045)}
 .hero-gradient{position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#132a38d9 0%,#142b3980 33%,#1e394400 72%)}
 .hero-tile-content{position:relative;width:100%;padding:35px clamp(24px,5vw,72px) 43px}
